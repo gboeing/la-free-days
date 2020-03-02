@@ -2,12 +2,13 @@
 
 | **Art**                    |                 |
 |----------------------------|-----------------|
+| Annenberg Space            | always          |
 | Broad                      | always          |
 | Getty                      | always          |
 | Hammer                     | always          |
-| LACMA                      | second Tuesdays |
+| LACMA                      | second Tue |
 | MOCA                       | always                |
-| Norton Simon               | first Fridays, 17:00-20:00  |
+| Norton Simon               | first Fri, 17:00-20:00  |
 | Petersen                   | possibly after 17:00?       |
 
 | **History**                |                 |
@@ -18,13 +19,16 @@
 | **Science and Nature**     |                 |
 |----------------------------|-----------------|
 | California Science Center  | always                       |
-| Descanso Gardens           | third Tuesdays (need tickets) |
-| Huntington Gardens         | first Thursdays (need tickets) |
-| LA County Arboretum        | third Tuesdays (need tickets)  |
+| Descanso Gardens           | third Tue (need tickets) |
+| Huntington Gardens         | first Thu (need tickets) |
+| LA County Arboretum        | third Tue (need tickets)  |
 | LA Zoo                     | |
-| Natural History Museum     | first Tuesdays (except Jul/Aug), every Tuesday in Sep, and county residents Mon-Fri 15:00-17:00 |
+| Natural History Museum     | first Tue (except Jul/Aug), every Tue in Sep |
 | Tar Pits Museum            | same as NHM |
 
 | **Homes**                  | |
 |----------------------------|-----------------|
 | Gamble House               | MOTA day |
+
+
+*NOTE* LA County residents with ID are free at LACMA, NHM, and Tar Pits Museum Mon-Fri after 15:00
