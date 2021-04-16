@@ -18,10 +18,11 @@
 
 | **Science and Nature**     |                 |
 |----------------------------|-----------------|
-| California Science Center  | always                       |
+| California Science Center  | always                   |
 | Descanso Gardens           | third Tue (need tickets) |
 | Huntington Gardens         | first Thu (need tickets) |
-| LA County Arboretum        | third Tue (need tickets)  |
+| LA County Arboretum        | third Tue (need tickets) |
+| South Coast Botanic Garden | third Tue (need tickets) |
 | LA Zoo                     | |
 | Natural History Museum     | first Tue (except Jul/Aug), every Tue in Sep |
 | Tar Pits Museum            | same as NHM |
