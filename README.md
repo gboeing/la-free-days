@@ -4,7 +4,7 @@
 |----------------------------|-----------------|
 | Annenberg Space            | always          |
 | Broad                      | always          |
-| Getty                      | always          |
+| Getty Center/Villa         | always          |
 | Hammer                     | always          |
 | LACMA                      | second Tue |
 | MOCA                       | always                |
@@ -18,6 +18,7 @@
 
 | **Science and Nature**     |                 |
 |----------------------------|-----------------|
+| Griffith Observatory       | always                   |
 | California Science Center  | always                   |
 | Descanso Gardens           | third Tue (need tickets) |
 | Huntington Gardens         | first Thu (need tickets) |
